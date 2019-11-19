@@ -1,0 +1,26 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "Theme_Purple-Hologa",
+  "description": "Este es un tema semi oscuro con purpura como color primario",
+  "author": {
+    "name": "Horacio Loredo Garcia",
+    "email": "horacio.loredo@gmail.com",
+    "url": "https://github.com/horacioloredogarcia"
+  },
+  "resources": {
+    "css": true
+  },
+  "licence": "",
+  "url": "https://github.com/horacioloredogarcia/Themes-KeeWeb",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1j46ZVTmpiPjaPuDs0TPmP+qvrFYriyq15Rx+joLxLspDfdNdYA9/oDQHu44TFT2DKIJm/zcjt7BXq/iZkaxzTNkVF0d4nt5lIDxIyr8TAbYy8TOW17kq4UDzVDo/qnCp7oaLgmQcdrq4sLvhyWzsO6ZEyjvTtHIxvMs3jZYU0XxKFsGDdRMYkqbiz2xLtOgIrYZUfQJXTvKO1CERCbTkMK8GMkCaNlztmYwcGgEKKKk76iL2brgs1QdxwRJlIsaPKE1FeDviX/bFonsDgNEIqkHyiqDyOfUC16Mvfr7KfeTEvl2AUhKyE1bmF8TGaPXRDxs1muyoRR+MHihYJfE1wIDAQAB",
+  "license": "MIT",
+  "locale": {
+    "name": "",
+    "title": ""
+  },
+  "theme": {
+    "name": "Theme_Purple-Hologa",
+    "title": "Theme Purple"
+  }
+}
